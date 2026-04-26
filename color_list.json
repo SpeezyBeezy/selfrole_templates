@@ -1,0 +1,347 @@
+{
+
+    "type": 0,
+
+    "content": "Show off your gayness from this splendid-fancy drop down menu",
+
+    "attachments": [
+
+        {
+
+            "id": "1483839450646712453",
+
+            "filename": "1773842359783-jRgzXTCxMwy5beKuNscbXaT7fDXoPebXdVcZZsXyQRPdhMvX.jpeg",
+
+            "size": 168516,
+
+            "url": "https://cdn.discordapp.com/attachments/1483760980134723604/1483839450646712453/1773842359783-jRgzXTCxMwy5beKuNscbXaT7fDXoPebXdVcZZsXyQRPdhMvX.jpeg?ex=69ec2b6d&is=69ead9ed&hm=11788a1095958c6b3c75cfd773a07b6a81fb9881f4922f7c6934e3e47bd522bb&",
+
+            "proxy_url": "https://media.discordapp.net/attachments/1483760980134723604/1483839450646712453/1773842359783-jRgzXTCxMwy5beKuNscbXaT7fDXoPebXdVcZZsXyQRPdhMvX.jpeg?ex=69ec2b6d&is=69ead9ed&hm=11788a1095958c6b3c75cfd773a07b6a81fb9881f4922f7c6934e3e47bd522bb&",
+
+            "width": 675,
+
+            "height": 1350,
+
+            "content_type": "image/jpeg",
+
+            "content_scan_version": 4,
+
+            "placeholder": "SCgGBAIFeGhomIaYh2dWD3L2gg==",
+
+            "placeholder_version": 1,
+
+            "spoiler": false
+
+        }
+
+    ],
+
+    "embeds": [],
+
+    "timestamp": "2026-03-18T13:41:03.637Z",
+
+    "editedTimestamp": "2026-04-22T19:45:28.195Z",
+
+    "flags": 0,
+
+    "components": [
+
+        {
+
+            "type": 1,
+
+            "id": "0",
+
+            "components": [
+
+                {
+
+                    "type": 3,
+
+                    "id": "0,0",
+
+                    "customId": "select-roles",
+
+                    "required": false,
+
+                    "options": [
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Cherry Rose",
+
+                            "value": "1483806504451833937"
+
+                        },
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Vibrant Coral",
+
+                            "value": "1483806697540681728"
+
+                        },
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Soft Pink",
+
+                            "value": "1483807085295570975"
+
+                        },
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Baby Blue",
+
+                            "value": "1483807243182014584"
+
+                        },
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Lavender",
+
+                            "value": "1483807163850686504"
+
+                        },
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Mint Green",
+
+                            "value": "1483807333758013530"
+
+                        },
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Pale Yellow",
+
+                            "value": "1483807404863787074"
+
+                        },
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Hot Pink",
+
+                            "value": "1483807407359660145"
+
+                        },
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Navy Blue",
+
+                            "value": "1483807607608053790"
+
+                        },
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Silver",
+
+                            "value": "1483808021678391307"
+
+                        },
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Emerald",
+
+                            "value": "1483807666907250688"
+
+                        },
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Dark Purple",
+
+                            "value": "1483807782993006605"
+
+                        },
+
+                        {
+
+                            "type": 1,
+
+                            "label": "Chocolate",
+
+                            "value": "1483807849548222565"
+
+                        }
+
+                    ],
+
+                    "placeholder": "Select your color role!",
+
+                    "minValues": 0,
+
+                    "maxValues": 1
+
+                }
+
+            ]
+
+        }
+
+    ],
+
+    "codedLinks": [],
+
+    "stickers": [],
+
+    "stickerItems": [],
+
+    "id": "1483822548436123731",
+
+    "channel_id": "1483760980134723604",
+
+    "author": {
+
+        "id": "1483781178518405210",
+
+        "username": "Kottu Chopper",
+
+        "discriminator": "7001",
+
+        "avatar": "84760740719f42c800ea5a408174aaab",
+
+        "avatarDecorationData": null,
+
+        "banner": null,
+
+        "verified": false,
+
+        "bot": true,
+
+        "system": false,
+
+        "mobile": false,
+
+        "desktop": false,
+
+        "flags": 0,
+
+        "publicFlags": 0,
+
+        "purchasedFlags": 0,
+
+        "premiumUsageFlags": 0,
+
+        "guildMemberAvatars": {},
+
+        "hasBouncedEmail": false,
+
+        "globalName": null,
+
+        "primaryGuild": null,
+
+        "collectibles": null,
+
+        "displayNameStyles": null,
+
+        "premiumState": null,
+
+        "perks": null,
+
+        "restrictedSchedule": null,
+
+        "appTransactionIds": null
+
+    },
+
+    "bot": false,
+
+    "pinned": false,
+
+    "mentions": [],
+
+    "mentionRoles": [],
+
+    "mentionChannels": [],
+
+    "mentionEveryone": false,
+
+    "mentioned": false,
+
+    "tts": false,
+
+    "giftCodes": [],
+
+    "state": "SENT",
+
+    "blocked": false,
+
+    "ignored": false,
+
+    "call": null,
+
+    "webhookId": null,
+
+    "reactions": [],
+
+    "applicationId": null,
+
+    "application": null,
+
+    "activity": null,
+
+    "activityInstance": null,
+
+    "interaction": null,
+
+    "interactionData": null,
+
+    "interactionMetadata": null,
+
+    "interactionError": null,
+
+    "messageReference": null,
+
+    "isSearchHit": false,
+
+    "loggingName": null,
+
+    "referralTrialOfferId": null,
+
+    "premiumGroupInviteId": null,
+
+    "giftingPrompt": null,
+
+    "boostingPrompt": null,
+
+    "messageSnapshots": [],
+
+    "isUnsupported": false,
+
+    "changelogId": null,
+
+    "diffViewDisabled": false
+
+} 

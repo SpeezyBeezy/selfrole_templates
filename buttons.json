@@ -1,0 +1,237 @@
+{
+
+    "type": 0,
+
+    "content": "### Grab your bullshit\n- <@&1450335764494946414> : Access to the <#1483840325549035551> (The gooner channel) Yeah shooo\n- <@&1483841417057927260> : Chat revive ping\n- <@&1483841511949992066> : Voice Chat ping",
+
+    "attachments": [],
+
+    "embeds": [],
+
+    "timestamp": "2026-03-18T15:33:05.054Z",
+
+    "editedTimestamp": "2026-04-24T13:03:18.380Z",
+
+    "flags": 0,
+
+    "components": [
+
+        {
+
+            "type": 1,
+
+            "id": "0",
+
+            "components": [
+
+                {
+
+                    "type": 2,
+
+                    "id": "0,0",
+
+                    "customId": "srb-t-1450335764494946414",
+
+                    "style": 1,
+
+                    "label": "Degenerate",
+
+                    "emoji": {
+
+                        "id": "1483841290671226984",
+
+                        "name": "whiteliquid"
+
+                    }
+
+                },
+
+                {
+
+                    "type": 2,
+
+                    "id": "0,1",
+
+                    "customId": "srb-t-1483841417057927260",
+
+                    "style": 1,
+
+                    "label": "Wakey Wakey",
+
+                    "emoji": {
+
+                        "name": "🔔"
+
+                    }
+
+                },
+
+                {
+
+                    "type": 2,
+
+                    "id": "0,2",
+
+                    "customId": "srb-t-1483841511949992066",
+
+                    "style": 1,
+
+                    "label": "Veecee",
+
+                    "emoji": {
+
+                        "id": "1422752188089892874",
+
+                        "name": "catowl"
+
+                    }
+
+                }
+
+            ]
+
+        }
+
+    ],
+
+    "codedLinks": [],
+
+    "stickers": [],
+
+    "stickerItems": [],
+
+    "id": "1483850740102467686",
+
+    "channel_id": "1483760980134723604",
+
+    "author": {
+
+        "id": "1483781178518405210",
+
+        "username": "Kottu Chopper",
+
+        "discriminator": "7001",
+
+        "avatar": "84760740719f42c800ea5a408174aaab",
+
+        "avatarDecorationData": null,
+
+        "banner": null,
+
+        "verified": false,
+
+        "bot": true,
+
+        "system": false,
+
+        "mobile": false,
+
+        "desktop": false,
+
+        "flags": 0,
+
+        "publicFlags": 0,
+
+        "purchasedFlags": 0,
+
+        "premiumUsageFlags": 0,
+
+        "guildMemberAvatars": {},
+
+        "hasBouncedEmail": false,
+
+        "globalName": null,
+
+        "primaryGuild": null,
+
+        "collectibles": null,
+
+        "displayNameStyles": null,
+
+        "premiumState": null,
+
+        "perks": null,
+
+        "restrictedSchedule": null,
+
+        "appTransactionIds": null
+
+    },
+
+    "bot": false,
+
+    "pinned": false,
+
+    "mentions": [],
+
+    "mentionRoles": [
+
+        "1483841511949992066",
+
+        "1483841417057927260",
+
+        "1450335764494946414"
+
+    ],
+
+    "mentionChannels": [],
+
+    "mentionEveryone": false,
+
+    "mentioned": true,
+
+    "tts": false,
+
+    "giftCodes": [],
+
+    "state": "SENT",
+
+    "blocked": false,
+
+    "ignored": false,
+
+    "call": null,
+
+    "webhookId": null,
+
+    "reactions": [],
+
+    "applicationId": null,
+
+    "application": null,
+
+    "activity": null,
+
+    "activityInstance": null,
+
+    "interaction": null,
+
+    "interactionData": null,
+
+    "interactionMetadata": null,
+
+    "interactionError": null,
+
+    "messageReference": null,
+
+    "isSearchHit": false,
+
+    "loggingName": null,
+
+    "referralTrialOfferId": null,
+
+    "premiumGroupInviteId": null,
+
+    "giftingPrompt": null,
+
+    "boostingPrompt": null,
+
+    "messageSnapshots": [],
+
+    "isUnsupported": false,
+
+    "changelogId": null,
+
+    "diffViewDisabled": false
+
+}
